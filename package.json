@@ -1,0 +1,25 @@
+{
+  "name": "skater_locator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skateboarding"
+  ],
+  "author": "Keethums",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.5.0",
+    "@google-cloud/local-auth": "^2.1.0",
+    "discord-api-types": "^0.37.30",
+    "discord.js": "^14.7.1",
+    "googleapis": "^105.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
+}
